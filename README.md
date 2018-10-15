@@ -53,4 +53,3 @@ You theme is setup just like a normal Jekyll site! To test your theme, run `bund
 ## License
 
 The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-# website
